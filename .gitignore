@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+slprj/
+*.slxc
+*.asv
+*.autosave
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+map,pipeline,success,steps,collisions,max_dev,global_len,expanded
+sparse,A*+DWA,1,36,0,0,37,253
+sparse,A*+DQN,1,36,0,0,37,253
+maze,A*+DWA,1,57,0,0,57,164
+maze,A*+DQN,1,57,0,0,57,164
+corridor,A*+DWA,1,39,0,1,38,38
+corridor,A*+DQN,1,38,0,0,38,38
