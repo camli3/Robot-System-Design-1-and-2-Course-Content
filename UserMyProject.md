@@ -128,11 +128,13 @@ build_simulink
 
 ## 1. 环境
 
-需要：Python 3，`numpy`，`matplotlib`。没有 matplotlib 时：
+需要：Python 3。在 `内容二_轨迹规划\` 下安装依赖：
 
 ```text
-python -m pip install matplotlib
+python -m pip install -r requirements.txt
 ```
+
+（`numpy`、`matplotlib`，版本见该文件）
 
 在终端里把当前目录切到：
 
